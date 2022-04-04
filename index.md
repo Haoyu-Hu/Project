@@ -18,13 +18,13 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
       <p><b>E-mail: <a href="mailto: huhaoyu81@gmail.com">huhaoyu81@gmail.com</a> / <a href="mailto: haoyuh@zju.edu.cn">haoyuh@zju.edu.cn</a></b></p>
       <p><b>Address: Hangzhou, Zhejiang Province, China</b></p>
     </td>
-    <td width="20%">
+    <td width="40%">
       <img src="/Project_Related/BA_proj_1.png" width="100%">  
     </td>
-    <td width="20%">
-      <img src="/Project_Related/BA_proj_2.png" width="100%">  
-    </td>
   </tr>
+    <tr width="20%">
+      <img src="/Project_Related/BA_proj_2.png" width="100%">  
+    </tr>
 </table>
 
 ## Header 2
