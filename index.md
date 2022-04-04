@@ -12,19 +12,21 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 <table border="0">
   <tr>
-    <td width="60%">
+    <td width="100%">
       <p><b>Accapted by 2022 OHBM Annual Meeting</b></p>
       <p><b>Department of Psychology and Behavior Science, Zhejiang University</b></p>
       <p><b>E-mail: <a href="mailto: huhaoyu81@gmail.com">huhaoyu81@gmail.com</a> / <a href="mailto: haoyuh@zju.edu.cn">haoyuh@zju.edu.cn</a></b></p>
       <p><b>Address: Hangzhou, Zhejiang Province, China</b></p>
     </td>
-    <td width="40%">
-      <img src="/Project_Related/BA_proj_1.png" width="100%">  
+  </tr>
+<!--   <tr>
+    <img src="/Project_Related/BA_proj_2.png" width="100%"> 
+  </tr> -->
+  <tr>
+    <td width="100%">
+    <img src="/Project_Related/BA_proj_2.png" width="100%"> 
     </td>
   </tr>
-    <tr width="20%">
-      <img src="/Project_Related/BA_proj_2.png" width="100%">  
-    </tr>
 </table>
 
 ## Header 2
