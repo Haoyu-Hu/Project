@@ -46,7 +46,7 @@
 <table border="0">
   <tr>
     <td width="100%">
-      <p><b>Supervised by Assistant Professor Yuzheng Hu and Senior Engnieer Cindy Wang </br>(the following structure comes from Wang's former paper (2021))</b></p>
+      <p><b>Supervised by Assistant Professor Yuzheng Hu and Senior Engnieer Cindy Wang </br>(the following frame comes from Wang's former paper (2021), the current frame is classified)</b></p>
       <p><b>I trained U-Net deep learning model to explore the performance of transferred model in contrast to no-transferred model, even between rodent and human being</b></p>
       <p><b>Compared with no-transferred model, transferred model showed excellent results in all rodent datasets (include mice and rats)</b></p>
     </td>
