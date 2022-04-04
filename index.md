@@ -1,4 +1,5 @@
 ## Haoyu Hu's Leading Projects
+#### [Core Thesis]: All my projects are closely related to psychology and modeling. I want to use the technology from machine learning to explore psychology problem and try to make some contribution to the development of neuroimage processing software.
 
 ### 1. Machine Learning Reveals Hemispheric Differences in the Human Brain
 
@@ -6,6 +7,7 @@
   <tr>
     <td width="100%">
       <p><b></b></p>
+      <p><b>Supervised by Assitant Professor Xiangzhen Kong</b></p>
       <p><b>Accapted by 2022 OHBM Annual Meeting</b></p>
       <p><b>I wrote the code and ran the model to explore brain structure asymmetry with HCP dataset</b></p>
       <p><b>High accuracy was got by SVM (Area: 99.6%, Thickness: 88.2%). By extracting and comparing the most important components to build the model, we found four brain regions contributed most: Pars orbitalis; Frontal pole; Rostral anterior cingulate; Transverse temporal</b></p>
@@ -25,6 +27,7 @@
 <table border="0">
   <tr>
     <td width="100%">
+      <p><b>Supervised by Associate Dean and Professor Hui Chen</b></p>
       <p><b>We designed a psychological paradigm to solve the problem the former research didn't save: for outdated information that has been paid attention to but will not be used in the following tasks, will it be blocked outside the working memory or will it enter the working memory and be deleted then?</b></p>
       <p><b>We use a combination of change awareness paradigm and visual search paradigm to explore the problem</b></p>
     </td>
@@ -43,10 +46,9 @@
 <table border="0">
   <tr>
     <td width="100%">
-      <p><b>Accapted by 2022 OHBM Annual Meeting</b></p>
-      <p><b>I wrote the code and ran the model to explore brain structure asymmetry with HCP dataset</b></p>
-      <p><b>E-mail: <a href="mailto: huhaoyu81@gmail.com">huhaoyu81@gmail.com</a> / <a href="mailto: haoyuh@zju.edu.cn">haoyuh@zju.edu.cn</a></b></p>
-      <p><b>Address: Hangzhou, Zhejiang Province, China</b></p>
+      <p><b>Supervised by Assistant Professor Yuzheng Hu and Senior Engnieer Cindy Wang </br>(the following structure comes from Wang's former paper (2021))</b></p>
+      <p><b>I trained U-Net deep learning model to explore the performance of transferred model in contrast to no-transferred model, even between rodent and human being</b></p>
+      <p><b>Compared with no-transferred model, transferred model showed excellent results in all rodent datasets (include mice and rats)</b></p>
     </td>
   </tr>
 <!--   <tr>
@@ -63,10 +65,10 @@
 <table border="0">
   <tr>
     <td width="100%">
-      <p><b>Accapted by 2022 OHBM Annual Meeting</b></p>
-      <p><b>I wrote the code and ran the model to explore brain structure asymmetry with HCP dataset</b></p>
-      <p><b>E-mail: <a href="mailto: huhaoyu81@gmail.com">huhaoyu81@gmail.com</a> / <a href="mailto: haoyuh@zju.edu.cn">haoyuh@zju.edu.cn</a></b></p>
-      <p><b>Address: Hangzhou, Zhejiang Province, China</b></p>
+      <p><b>Supervised by Assitant Professor Xiangzhen Kong</b></p>
+      <p><b>Try to find more detailed secret of human brain by embedding model trained from HCP dataset to UK biobank dataset</b></p>
+      <p><b>I worte all the codes and ran the model</b></p>
+      <p><b>In this project, I will try to unmask the secret of human brain asymmetry</b></p>
     </td>
   </tr>
 <!--   <tr>
