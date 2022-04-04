@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Haoyu Hu's Leading Projects
 
 You can use the [editor on GitHub](https://github.com/Haoyu-Hu/Project/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -8,22 +8,21 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-# Header 1
+# 1. Machine Learning Reveals Hemispheric Differences in the Human Brain
 
 <table border="0">
   <tr>
     <td width="60%">
-      <h1>Haoyu Hu</h1>
-      <p><b>Undergraduate (Junior),  GPA: 3.92/4</b></p>
+      <p><b>Accapted by 2022 OHBM Annual Meeting</b></p>
       <p><b>Department of Psychology and Behavior Science, Zhejiang University</b></p>
       <p><b>E-mail: <a href="mailto: huhaoyu81@gmail.com">huhaoyu81@gmail.com</a> / <a href="mailto: haoyuh@zju.edu.cn">haoyuh@zju.edu.cn</a></b></p>
       <p><b>Address: Hangzhou, Zhejiang Province, China</b></p>
     </td>
     <td width="20%">
-      <img src="/photo_self_2.jpg" width="100%">  
+      <img src="/Project_Related/BA_proj_1.png" width="100%">  
     </td>
     <td width="20%">
-      <img src="/photo_self_2.jpg" width="100%">  
+      <img src="/Project_Related/BA_proj_2.png" width="100%">  
     </td>
   </tr>
 </table>
