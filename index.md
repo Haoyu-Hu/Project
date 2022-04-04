@@ -21,7 +21,7 @@
   </tr>
 </table>
 
-### Header 2
+### 2. Detached or Deleted: What Is the Strategy Working Memory Most Likely to Take to Outdated Items that Are Paid Attention to?
 <table border="0">
   <tr>
     <td width="100%">
@@ -41,7 +41,7 @@
   </tr>
 </table>
 
-### Header 3
+### 3. U-Net Pre-Trained by Human-Brain Dataset Transfers Extremely Quickly and Performs Greatly on Rodent Dataset
 <table border="0">
   <tr>
     <td width="100%">
