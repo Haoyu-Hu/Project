@@ -1,4 +1,4 @@
-## Haoyu Hu's Leading Projects
+## Haoyu Hu's Leading Projects (not including projects I don't lead)
 #### [Core Thesis]: All my projects are closely related to psychology and modeling. I want to use the technology from machine learning to explore psychology problem and try to make some contribution to the development of neuroimage processing software.
 
 ### 1. Machine Learning Reveals Hemispheric Differences in the Human Brain
