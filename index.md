@@ -68,17 +68,14 @@
       <p><b>Supervised by Assitant Professor Xiangzhen Kong</b></p>
       <p><b>Try to find more detailed secret of human brain by embedding model trained from HCP dataset to UK biobank dataset</b></p>
       <p><b>I worte all the codes and ran the model</b></p>
-      <p><b>In this project, I will try to unmask the secret of human brain asymmetry</b></p>
+      <p><b>In this project, I will try to unmask the secret of human brain asymmetry and explore the relationship between some diseases and brain asymmetry</b></p>
     </td>
   </tr>
-<!--   <tr>
-    <img src="/Project_Related/BA_proj_2.png" width="100%"> 
-  </tr> -->
-<!--   <tr>
+  <tr>
     <td width="100%">
-    <img src="/https://github.com/Haoyu-Hu/Project/raw/gh-pages/Project_Related/UKB_proj_1.png" width="100%"> 
+    <img src="/Project_Related/UKB_proj_1.png" width="100%"> 
     </td>
-  </tr> -->
+  </tr>
 </table>
 
 ### In the end
