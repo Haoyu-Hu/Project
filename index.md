@@ -73,7 +73,7 @@
   </tr>
   <tr>
     <td width="100%">
-    <img src="/Project_Related/UKB_proj_1.png" width="100%"> 
+    <img src="https://github.com/Haoyu-Hu/Project/raw/gh-pages/Project_Related/UKB_proj_1.png" width="100%"> 
     </td>
   </tr>
 </table>
