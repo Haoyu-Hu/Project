@@ -1,7 +1,20 @@
 ## Haoyu Hu's Leading Projects
-#### [Core Thesis]: All my projects are closely related to psychology and modeling. I want to use the technology from machine learning to explore psychology problem and try to make some contribution to the development of neuroimage processing software.
+#### [Core Thesis]: All my projects are closely related to neuroimagining and modeling. I want to use the technology from machine learning to explore neuroimagining problem and try to make some contribution to the development of neuroimaging processing software.
 
-### 1. Machine Learning Reveals Hemispheric Differences in the Human Brain
+### 1. Mapping Benefits of Midodrine Injection: an Analysis Based on MIMIC IV database
+
+<table border="0">
+  <tr>
+    <td width="100%">
+      <p><b></b></p>
+      <p><b>Supervised by Principle Research Scientist Leo Anthony Celi at Computational Physiology Lab in MIT</b></p>
+      <p><b>Descriptive and prescriptive analysis of the effects of Vasoconstrictive medication via MIMIC IV database </b></p>
+      <p><b>Customizing Targeted Maximum Likelihood Estimation for Causal Inference & ML methods for observational study</b></p>
+    </td>
+  </tr>
+</table>
+
+### 2. Machine Learning Reveals Hemispheric Differences in the Human Brain
 
 <table border="0">
   <tr>
@@ -23,7 +36,7 @@
   </tr>
 </table>
 
-### 2. Detached or Deleted: What Is the Strategy Working Memory Most Likely to Take to Outdated Items that Are Paid Attention to?
+### 3. Detached or Deleted: What Is the Strategy Working Memory Most Likely to Take to Outdated Items that Are Paid Attention to?
 <table border="0">
   <tr>
     <td width="100%">
@@ -42,7 +55,7 @@
   </tr>
 </table>
 
-### 3. U-Net Pre-Trained by Human-Brain Dataset Transfers Extremely Quickly and Performs Greatly on Rodent Dataset
+### 4. U-Net Pre-Trained by Human-Brain Dataset Transfers Extremely Quickly and Performs Greatly on Rodent Dataset
 <table border="0">
   <tr>
     <td width="100%">
@@ -61,7 +74,7 @@
   </tr>
 </table>
 
-### 4. Mapping Brain Asymmetry from more than 40,000 People from UK Biobank
+### 5. Mapping Brain Asymmetry from more than 40,000 People from UK Biobank
 <table border="0">
   <tr>
     <td width="100%">
