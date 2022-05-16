@@ -1,5 +1,5 @@
 ## Haoyu Hu's Leading Projects
-#### [Core Thesis]: All my projects are closely related to neuroimagining and modeling. I want to use the technology from machine learning to explore neuroimagining problem and try to make some contribution to the development of neuroimaging processing software.
+#### [Core Thesis]: All my projects are closely related to neuroimagining, healthcare, human research and modeling. I want to use the technology from machine learning to explore neuroimagining/healthcare problem and try to make some contribution to the development of neuroimaging processing software.
 
 ### 1. Mapping Benefits of Midodrine Injection: an Analysis Based on MIMIC IV database
 
