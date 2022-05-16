@@ -36,26 +36,7 @@
   </tr>
 </table>
 
-### 3. Detached or Deleted: What Is the Strategy Working Memory Most Likely to Take to Outdated Items that Are Paid Attention to?
-<table border="0">
-  <tr>
-    <td width="100%">
-      <p><b>Supervised by Associate Dean and Professor Hui Chen</b></p>
-      <p><b>We designed a psychological paradigm to solve the problem the former research didn't save: for outdated information that has been paid attention to but will not be used in the following tasks, will it be blocked outside the working memory or will it enter the working memory and be deleted then?</b></p>
-      <p><b>We use a combination of change awareness paradigm and visual search paradigm to explore the problem</b></p>
-    </td>
-  </tr>
-<!--   <tr>
-    <img src="/Project_Related/BA_proj_2.png" width="100%"> 
-  </tr> -->
-  <tr>
-    <td width="100%">
-    <img src="https://github.com/Haoyu-Hu/Project/raw/gh-pages/Project_Related/WM_proj_1.png" width="100%"> 
-    </td>
-  </tr>
-</table>
-
-### 4. U-Net Pre-Trained by Human-Brain Dataset Transfers Extremely Quickly and Performs Greatly on Rodent Dataset
+### 3. U-Net Pre-Trained by Human-Brain Dataset Transfers Extremely Quickly and Performs Greatly on Rodent Dataset (Paper Ongoing)
 <table border="0">
   <tr>
     <td width="100%">
@@ -74,7 +55,7 @@
   </tr>
 </table>
 
-### 5. Mapping Brain Asymmetry from more than 40,000 People from UK Biobank
+### 4. Mapping Brain Asymmetry from more than 40,000 People from UK Biobank (Paper Ongoing)
 <table border="0">
   <tr>
     <td width="100%">
@@ -87,6 +68,25 @@
   <tr>
     <td width="100%">
     <img src="https://github.com/Haoyu-Hu/Project/raw/gh-pages/Project_Related/UKB_proj_1.png" width="100%"> 
+    </td>
+  </tr>
+</table>
+
+### 5. Detached or Deleted: What Is the Strategy Working Memory Most Likely to Take to Outdated Items that Are Paid Attention to?
+<table border="0">
+  <tr>
+    <td width="100%">
+      <p><b>Supervised by Associate Dean and Professor Hui Chen</b></p>
+      <p><b>We designed a psychological paradigm to solve the problem the former research didn't save: for outdated information that has been paid attention to but will not be used in the following tasks, will it be blocked outside the working memory or will it enter the working memory and be deleted then?</b></p>
+      <p><b>We use a combination of change awareness paradigm and visual search paradigm to explore the problem</b></p>
+    </td>
+  </tr>
+<!--   <tr>
+    <img src="/Project_Related/BA_proj_2.png" width="100%"> 
+  </tr> -->
+  <tr>
+    <td width="100%">
+    <img src="https://github.com/Haoyu-Hu/Project/raw/gh-pages/Project_Related/WM_proj_1.png" width="100%"> 
     </td>
   </tr>
 </table>
